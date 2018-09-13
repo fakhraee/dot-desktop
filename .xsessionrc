@@ -1,4 +1,1 @@
 PATH="$PATH:$HOME/bin"
-setxkbmap -layout us,ir -option "grp:ctrls_toggle"
-kbdd
-parcellite &
