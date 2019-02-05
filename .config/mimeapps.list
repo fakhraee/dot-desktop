@@ -31,3 +31,4 @@ application/x-extension-xht=surf.desktop;
 image/jpeg=gpicview.desktop;leafpad.desktop;
 application/pdf=mupdf.desktop;
 audio/mpeg=mpv.desktop;
+text/plain=leafpad.desktop;
